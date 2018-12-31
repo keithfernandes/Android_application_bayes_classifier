@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">iWander</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_alert">Alert</string>
+    <string name="title_activity_login">iWander</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_display_loation">Locations</string>
+
+</resources>
